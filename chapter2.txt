@@ -1,0 +1,2 @@
+In the process of learning version control git and github, i did my first initial commit with the flag -m.
+Today i feel very motivated and invision myself woring as a developer. It's a long dream of my and won't let it die. I'm really focus and and dedicated at least 1 to 2 hours a day working and created small project.
