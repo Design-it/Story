@@ -1,0 +1,3 @@
+That's was a test to see how i can open a text file from the terminal to Visual Studio Coded editor.
+I guess That working fine as expected.
+I updated the json file by change the foreground color to green. I learned a lot today and i started to really
