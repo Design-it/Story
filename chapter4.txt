@@ -1,1 +1,4 @@
 Today March 11 2025 i added a new chapter in code journey story while learning Git/Github using the Udemy module fullstack web development.
+
+Today march 12 i started a new module branching and merging. Just finished git clone.
+next is Forking & Pull Requests 

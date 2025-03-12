@@ -1,3 +1,6 @@
 That's was a test to see how i can open a text file from the terminal using Visual Studio Code editor.
 I guess That's working great as expected.
+
+while Im learning git/Github, i took snack size workout, like squat pushup and curl just 5 minutes in between.
+
 I updated the Vs Code Json file by change the foreground color from white to green. I learned a lot today and i started to really enjoy what I'm doing.
