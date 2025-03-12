@@ -1,0 +1,1 @@
+Practicing using merging & Branching, using git command like "git checkout", "git branch to see what branching Im on and change to "git checkout main". This amazing how everything start to come together like a puzzle.
